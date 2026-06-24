@@ -72,7 +72,7 @@ while True:
 
     if check_winner("O"):
         print_board()
-        print("🤖 AI Wins!")
+        print(" AI Wins!")
         break
 
     if is_draw():
